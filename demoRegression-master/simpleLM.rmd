@@ -76,6 +76,6 @@ summary.lm(simp)
 
 The adjusted R-Squared is 0.7423.
 
-## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
+## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better.    
 
 With this information, we can consider which factor is better in predicting the length of a bear.We will be looking at the value of the Adjusted-Rsquared from worst to best. In order, the worst would be AGE being at a value of 0.5073, then HEADWTH at 0.5321,  then WEIGHT at 0.7423, then NECK at 0.7476, then CHEST at 0.7869, and finally HEADLEN best the best predictor at 0.8434.
